@@ -5,8 +5,8 @@ view specific meal details, and learn how to prepare their favorite dishes easil
 
 <table>
     <tr>
-        <td style="padding-right: 20px;padding-bottom: 30px;"><img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-02%20(2).jpg" width="200" height="400"/></td>
-       <td style="padding-right: 20px;padding-bottom: 30px;"><img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-01.jpg" width="200" height="400"/></td>
+        <td style="padding-right: 100px;padding-bottom: 100px;"><img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-02%20(2).jpg" width="200" height="400"/></td>
+       <td style="padding-right: 100px;padding-bottom: 100px;"><img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-01.jpg" width="200" height="400"/></td>
     </tr>
     <tr>
         <td style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-02.jpg" width="200" height="400"/></td>
