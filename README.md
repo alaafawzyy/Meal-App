@@ -3,8 +3,12 @@
 his is a detailed meal application built using Android Kotlin with modern development practices. The app allows users to explore various meal categories, 
 view specific meal details, and learn how to prepare their favorite dishes easily
 
-<img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/master/app/assets/photo_2024-12-05_23-01-59.jpg" alt="Meal App Screenshot" width="300"/>
+ <img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-02%20(2).jpg" width="300" height="200"/>
+ <img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/master/app/assets/photo_2024-12-05_23-01-59.jpg" alt="Meal App Screenshot" width="300" height="200"/>
+ <img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-01.jpg" width="300" height="200"/>
+<img src="https://raw.githubusercontent.com/alaafawzyy/Meal_Compose/refs/heads/master/app/assets/photo_2024-12-05_23-02-02.jpg" width="300" height="200"/>
 
+ 
 
 
 ## Technologies Used
